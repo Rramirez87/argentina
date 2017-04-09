@@ -1,0 +1,9 @@
+# IDE #
+.idea/
+*.swp.idea
+# BD #
+*.sql
+# Temporales
+/tmp
+# Variables de entorno
+.env
